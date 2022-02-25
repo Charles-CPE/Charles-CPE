@@ -12,6 +12,8 @@ I’m particularly interested in domains like Augmented Reality and Computer Vis
 
 ```
 Python, C++, Matlab
+Computer vision
+OpenCV, TensorFlow
 ```
 
 <!--
